@@ -585,7 +585,9 @@ Using `UTF-8`,`Unicode Strings`
 + Install `Requests`, `BeatifulSoap4`
 > pip install requests  
 > pip install BeautifulSoap
-+ 
+#### GET POST
++ GET
++ POST
 
 <a name = "Python_VoiceKit"/>
 
