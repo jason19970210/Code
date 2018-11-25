@@ -580,6 +580,12 @@ Using `UTF-8`,`Unicode Strings`
 <a name = "Python_Scapying"/>
 
 ### 爬蟲
+#### Ref : https://www.largitdata.com/course_list/1
+#### Steps
++ Install `Request`, `BeatifulSoap4`
+> pip install requests
+> pip install BeautifulSoap
++ 
 
 <a name = "Python_VoiceKit"/>
 
